@@ -36,8 +36,7 @@ and useful hints for developers can be found in [doc/developer-notes.md](doc/dev
 
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test on short notice. Please be patient and help out by testing
-other people's pull requests, and remember this is a security-critical project where any mistake might cost people
-lots of money.
+other people's pull requests, and remember this is a security-critical project where any mistake might cost people lots of money. We use a lot of python here.
 
 ### Automated Testing
 
